@@ -1,0 +1,13 @@
+h1{
+ color:#2b58ff
+}
+.container{
+  background:url('../ASSETS/images.jpg') no-repeat;
+  background-position: top left;
+  background-size: cover;
+}
+pre{
+    background-image:url('../ASSETS/image.jpg');
+    background-position: bottom left;
+    background-size: auto;
+}

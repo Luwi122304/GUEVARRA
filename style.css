@@ -1,0 +1,14 @@
+h1{
+    color:#ca5c43;
+    text-align: center;
+}
+img{
+    border-radius: 30%;
+    border: 5px solid black;
+}
+body{
+    background-image: url('../ASSETS/images.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

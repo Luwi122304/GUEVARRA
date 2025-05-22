@@ -1,0 +1,13 @@
+h1{
+    color:#ff5415;
+    text-align:center;
+}
+img{
+    border-radius: 100px 50px 100px 50px;
+}
+body{
+    background-image: url('../ASSETS/table.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
